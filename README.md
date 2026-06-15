@@ -4,6 +4,7 @@ A terminal-based cafeteria management system that allows administrators to manag
 ## My Role
 **Team Leader**: developed the project timeline in Trello, ensured progress, designed core classes, implemented key features, and finalized the project.
 
+## Key Features
 ### **Admin Functions:**
 + Add new food items (code, title, origin, variety, calories, price)
 + Delete food items by code
